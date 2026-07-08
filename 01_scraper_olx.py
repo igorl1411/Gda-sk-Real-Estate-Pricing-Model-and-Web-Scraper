@@ -11,9 +11,9 @@ naglowki = {
 }
 
 zebrane_mieszkania = []
-liczba_stron_do_pobrania = 5  # Zaczynamy bezpiecznie od 5 stron
+liczba_stron_do_pobrania = 15
 
-#Pętla przechodząca przez kolejne strony (od 1 do 5)
+#Pętla przechodząca przez kolejne strony
 for strona in range(1, liczba_stron_do_pobrania + 1):
     print(f"-> Skanuję stronę numer {strona}...")
 
