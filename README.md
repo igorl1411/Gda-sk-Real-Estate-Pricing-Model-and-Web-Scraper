@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/36f74620-f0a6-4db2-a48a-160caec85678
 
 
 
-## 🚀 Jak uruchomić projekt (How to Run)
+## Jak uruchomić projekt (How to Run)
 1. **Sklonuj repozytorium** na swój komputer.
 2. **Zainstaluj wymagane biblioteki** za pomocą pliku `requirements.txt`:
    ```bash
