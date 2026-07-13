@@ -16,7 +16,7 @@ webscraper/
 ├── 01_scraper_olx.py                            # Skrypt pobierający dane z OLX
 ├── 02_03_data_engineering_and_modeling.ipynb    # Notatnik Jupyter z czyszczeniem danych i modelowaniem
 ├── app2.py                                      # Interaktywna aplikacja webowa (Streamlit)
-├── OLX_Mieszkania_Gdansk.xlsx                   # Baza pobranych danych (przykładowa)
+├── OLX_Mieszkania_Gdansk2.xlsx                   # Baza pobranych danych (przykładowa)
 ├── requirements.txt                             # Plik z wymaganymi bibliotekami
 └── .gitignore                                   # Pliki ignorowane w repozytorium
 ```
